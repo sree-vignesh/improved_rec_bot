@@ -1,0 +1,22 @@
+{
+  "name": "improved_rec_bot",
+  "version": "1.0.0",
+  "description": "Bot to fetch REC portal info.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sree-vignesh/improved_rec_bot.git"
+  },
+  "keywords": [
+    "recbot"
+  ],
+  "author": "Vicky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sree-vignesh/improved_rec_bot/issues"
+  },
+  "homepage": "https://github.com/sree-vignesh/improved_rec_bot#readme"
+}
